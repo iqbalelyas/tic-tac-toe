@@ -7,7 +7,7 @@
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0"
   },
-  "homepages" :"https://github.com/iqbalelyas/tic-tac-toe",
+  "homepages" :"https://iqbalelyas.github.io/tic-tac-toe/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
